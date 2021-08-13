@@ -2,7 +2,7 @@
 
 # About the project
 
-Applied Multiple Linear Regression model on the Immunotherapy and Cryotherapy datasets to check the effectiveness and results in predicting the effective wart treatment and the  which one is the best treatment from both 
+Applied Multiple Linear Regression model on the Immunotherapy and Cryotherapy datasets to check the effectiveness and results in predicting the effective wart treatment and which one is the best treatment from both 
 
 # Data Source
 
